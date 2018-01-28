@@ -4,7 +4,7 @@ author
 :   Kazuhiro NISHIYAMA
 
 content-source
-:   LILO, 東海道らぐ, OpenSUSEMeetUP and 関西Debian 勉強会 LT大会
+:   LILO, 東海道らぐ, openSUSE MeetUP and 関西Debian 勉強会 LT大会
 
 date
 :   2018/01/28
